@@ -1,10 +1,9 @@
 Review of Shukla, Evans, et al. (2016) **_Development of a RNA-Seq Based Prognostic Signature in Lung Adenocarcinoma_**
 
- 
 
 **Track 3:** Cancer Biomarkers Discovery
 
-**Paper Link: **<https://academic.oup.com/jnci/article/109/1/djw200/2905970>
+**Paper Link:** <https://academic.oup.com/jnci/article/109/1/djw200/2905970>
 
 **Authors:** Irina Andruishchenko, Oluwatosin Owolabi, Balqees Fiez Mohammad Mansour,  Nusrat Afrin
 
@@ -14,7 +13,6 @@ Review of Shukla, Evans, et al. (2016) **_Development of a RNA-Seq Based Prognos
 
  
 
- 
 
 **Introduction**
 
@@ -22,41 +20,9 @@ Lung cancer, a leading cause of cancer-related deaths in the United States, is p
 
 **Study Design**
 
-<!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="image1.png" o:spid="_x0000_s1026" type="#_x0000_t75"
- style='position:absolute;left:0;text-align:left;margin-left:109.5pt;
- margin-top:95.95pt;width:279.35pt;height:252.25pt;z-index:251658240;
- visibility:visible;mso-wrap-style:square;mso-height-percent:0;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:9pt;
- mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:9pt;
- mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
- mso-position-vertical:absolute;mso-position-vertical-relative:text;
- mso-height-percent:0;mso-height-relative:margin'>
- <v:imagedata src="file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)<!--[endif]-->The study identified **96 genes** with statistically significant prognostic associations, including five long non-coding RNAs (lncRNAs). Notably, a four-gene signature which features the lncRNA LINC00941 emerged as a robust prognostic marker. This four-gene signature was validated through its strong association with both metastasis-free survival and overall survival in additional TCGA cases as well as in an independent institutional cohort. The significance of this signature lies in its potential to be rapidly incorporated into RNA-seq clinical sequencing programs, thereby allowing for tailored management of early-stage lung adenocarcinoma.
+The study identified **96 genes** with statistically significant prognostic associations, including five long non-coding RNAs (lncRNAs). Notably, a four-gene signature which features the lncRNA LINC00941 emerged as a robust prognostic marker. This four-gene signature was validated through its strong association with both metastasis-free survival and overall survival in additional TCGA cases as well as in an independent institutional cohort. The significance of this signature lies in its potential to be rapidly incorporated into RNA-seq clinical sequencing programs, thereby allowing for tailored management of early-stage lung adenocarcinoma.
 
  
-
  
 **Key Findings**
 
