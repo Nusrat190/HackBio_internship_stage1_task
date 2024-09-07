@@ -5,14 +5,13 @@ Review of Shukla, Evans, et al. (2016) **_Development of a RNA-Seq Based Prognos
 
 **Paper Link:** <https://academic.oup.com/jnci/article/109/1/djw200/2905970>
 
-**Authors:** Irina Andruishchenko, Oluwatosin Owolabi, Balqees Fiez Mohammad Mansour,  Nusrat Afrin
+**Authors:** Irina Andruishchenko (@rirkella), Oluwatosin Owolabi(@Oluwatosin), Balqees Fiez Mohammad Mansour(@Balqees Mansour),  Nusrat Afrin (@Nusrat)
 
 **GitHub Link:**
 
 **LinkedIn Post link: <https://www.linkedin.com/posts/nusrat-afrin-0686b716b_oncology-cancerabrgenomics-biomarkers-activity-7238275121973489664-imFu?utm_source=share&utm_medium=member_desktop>**
 
  
-
 
 **Introduction**
 
@@ -22,13 +21,10 @@ Lung cancer, a leading cause of cancer-related deaths in the United States, is p
 
 The study identified **96 genes** with statistically significant prognostic associations, including five long non-coding RNAs (lncRNAs). Notably, a four-gene signature which features the lncRNA LINC00941 emerged as a robust prognostic marker. This four-gene signature was validated through its strong association with both metastasis-free survival and overall survival in additional TCGA cases as well as in an independent institutional cohort. The significance of this signature lies in its potential to be rapidly incorporated into RNA-seq clinical sequencing programs, thereby allowing for tailored management of early-stage lung adenocarcinoma.
 
- 
- 
 **Key Findings**
 
 Early-stage lung adenocarcinoma is characterized by poorer survival outcomes compared to other cancers. Current treatment decisions, including adjuvant chemotherapy, are largely based on clinical criteria such as tumor size. However, the study highlights the need for more sophisticated, genomic-guided approaches. While mutation identification has been crucial for targeted therapies in metastatic cancer, outcome variability within mutation cohorts remains a challenge. The ongoing trials, including ALCHEMIST and various national basket trials, aim to address these issues by exploring comprehensive genomic testing. RNA-seq offers several advantages over traditional microarray technologies, including detecting low-abundance transcripts and providing comprehensive genomic alteration information. These capabilities make RNA-seq a superior platform for clinical applications, particularly for detecting noncoding RNA and understanding tumor biology.
 
-** **
 
 **Overview**
 
