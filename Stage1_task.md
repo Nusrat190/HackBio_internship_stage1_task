@@ -7,7 +7,7 @@ Review of Shukla, Evans, et al. (2016) **_Development of a RNA-Seq Based Prognos
 
 **Authors:** Irina Andruishchenko (@rirkella), Oluwatosin Owolabi(@Oluwatosin), Balqees Fiez Mohammad Mansour(@Balqees Mansour),  Nusrat Afrin (@Nusrat)
 
-**GitHub Link:**
+**GitHub Link:**https://github.com/Nusrat190/HackBio_internship_stage1_task/edit/main/Stage1_task.md
 
 **LinkedIn Post link: <https://www.linkedin.com/posts/nusrat-afrin-0686b716b_oncology-cancerabrgenomics-biomarkers-activity-7238275121973489664-imFu?utm_source=share&utm_medium=member_desktop>**
 
