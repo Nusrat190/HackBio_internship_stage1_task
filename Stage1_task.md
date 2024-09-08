@@ -32,8 +32,4 @@ To summarize, the study utilized data from **The Cancer Genome Atlas (TCGA)**, d
 
 **References**
 
-American Cancer Society. (2015). Cancer facts & figures 2015. Atlanta, GA: American Cancer Society.
-
-Beer, D. G., Kardia, S. L., Huang, C. C., Giordano, T. J., Levin, A. M., Misek, D. E., Lin, L., Chen, G., Gharib, T. G., Thomas, D. G., Lizyness, M. L., Kuick, R., Hayasaka, S., Taylor, J. M. G., Iannettoni, M. D., Orringer, M. B., & Hanash, S. (2002). Gene-expression profiles predict survival of patients with lung adenocarcinoma. Nature Medicine, 8(8), 816–824. https://doi.org/10.1038/nm733
-
-Dhanasekaran, S. M., Balbin, O. A., Chen, G., Nadal, E., Kalyana-Sundaram, S., Pan, J., Veeneman, B. A., Cao, X., Kothari, V., Lonigro, R. J., Omenn, G. S., Iyer, H. K., & Chinnaiyan, A. M. (2014). Transcriptome meta-analysis of lung cancer reveals recurrent aberrations in NRG1 and Hippo pathway genes. Nature Communications, 5, 5893. https://doi.org/10.1038/ncomms6893
+Sudhanshu Shukla, Joseph R Evans, Rohit Malik, Felix Y Feng, Saravana M Dhanasekaran, Xuhong Cao, Guoan Chen, David G Beer, Hui Jiang, Arul M Chinnaiyan, Development of a RNA-Seq Based Prognostic Signature in Lung Adenocarcinoma, JNCI: Journal of the National Cancer Institute, Volume 109, Issue 1, January 2017, djw200, https://doi.org/10.1093/jnci/djw200
